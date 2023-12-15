@@ -1,0 +1,3 @@
+git clone URL (clona repo remoto no repo local 
+
+o gitbash é um terminal extendido para utilizar o uso do git 
